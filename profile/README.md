@@ -14,7 +14,7 @@ See below to learn more about our courses and related training materials.
 | ------|-----------| ------------- |
 | [:link: Data Journalism Notebooks](https://stanfordjournalism.github.io/data-journalism-notebooks/lab?path=README.ipynb) | [data-journalism-notebooks](https://github.com/stanfordjournalism/data-journalism-notebooks) | Training resources for Python and data analysis (no install required :metal:)|
 | Stanford Grad Journalism technical training | [padj-code](https://github.com/stanfordjournalism/padj-code) | Code examples, tutorials, assignments and other sundry bits for newsroom coding instruction used in Public Affairs Data Journalism courses. |
-| [:link: Front-end Faves]() | [frontend-faves](https://github.com/stanfordjournalism/frontend-faves) | A lovingly curated list of resources for your journey in interactive graphics and web dev for the news. |
+| [:link: Front-end Faves](https://stanfordjournalism.github.io/frontend-faves/) | [frontend-faves](https://github.com/stanfordjournalism/frontend-faves) | A lovingly curated list of resources for your journey in interactive graphics and web dev for the news. |
 
 ## Courses
 
