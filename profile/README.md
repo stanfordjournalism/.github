@@ -1,6 +1,6 @@
 <img src="https://github.com/stanfordjournalism/.github/assets/39200/243dbfac-1cc2-4483-be6c-587d6de7b8cb" align="left" width="150" />
 
-We’re passionate about storytelling + data.
+Storytelling. Meet data.
 
 Our program teaches students to discover, verify, contextualize and publish truths that inform all citizens; 
 to hold government institutions accountable and serve as a check on powers that threaten democracy and the public good; 
@@ -22,7 +22,7 @@ We run the [Big Local News](https://github.com/biglocalnews) project at Stanford
 
 | name  | :octocat: | description |
 | ------|-----------| ------------- |
-| [:link: Data Journalism Notebooks](https://stanfordjournalism.github.io/data-journalism-notebooks/) | [data-journalism-notebooks](https://github.com/stanfordjournalism/data-journalism-notebooks) | Training resources for Python and data analysis (no install required :metal:)|
+| [:link: Data Journalism Notebooks](https://stanfordjournalism.github.io/data-journalism-notebooks/lab?path=README.ipynb) | [data-journalism-notebooks](https://github.com/stanfordjournalism/data-journalism-notebooks) | Training resources for Python and data analysis (no install required :metal:)|
 | Public Affairs Data Journalism | [padj-code](https://github.com/stanfordjournalism/padj-code) | Code examples, tutorials, assignments and other sundry bits for newsroom coding instruction. |
 
 
