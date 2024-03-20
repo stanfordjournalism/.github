@@ -6,6 +6,8 @@ Students in the program frequently work on collaborative data and software proje
 
 See below to learn more about our courses and related training materials.
 
+To chat with us, head on over to Discussions ☝️or submit an Issue on our [community repo](https://github.com/stanfordjournalism/community/issues).
+
 ## Training resources
 
 | name  | :octocat: | description |
