@@ -16,10 +16,10 @@ See below to learn more about our courses and related training materials.
 
 ## Courses
 
-| course | description | 
+| name | description | 
 | -------|-------------|
-| Public Affairs Data Journalism (COMM 273D / 274D) | Core data journalism courses for the Graduate Journalism Program. |
-| [:link: Exploring Computational Journalism (CS 286 / COMM 281)](https://ecj.stanford.edu/) | An interdisciplinary elective course on data, design and computation for the news. |
+| Public Affairs Data Journalism I & II (COMM 273D / 274D) | Core data journalism courses for the Graduate Journalism Program. |
+| [:link: Exploring Computational Journalism (CS 286 / COMM 281)](https://ecj.stanford.edu/) | An interdisciplinary elective on data, design and computation for the news. |
 
 
 
