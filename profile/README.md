@@ -1,6 +1,4 @@
-<img src="https://github.com/stanfordjournalism/.github/assets/39200/243dbfac-1cc2-4483-be6c-587d6de7b8cb" align="left" width="150" />
-
-__Storytelling. Meet data.__
+# Storytelling. Meet data.
 
 The [Stanford Journalism program](https://journalism.stanford.edu/curriculum) trains students in public accountability and investigative reporting, with an emphasis on data and computational journalism. Our students' work can be found on [Peninsula Press](https://peninsulapress.com/) as well as in a variety of news outlets around the country. 
 
