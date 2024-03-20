@@ -2,7 +2,7 @@
 
 The [Stanford Journalism program](https://journalism.stanford.edu/curriculum) trains students in public accountability and investigative reporting, with an emphasis on data and computational journalism. Our students' work can be found on [Peninsula Press](https://peninsulapress.com/) as well as in a variety of news outlets around the country. 
 
-Students in the program frequently work on collaborative data and software projects with [Big Local News](https://github.com/biglocalnews), a not-for-profit housed at Stanford that supports local journalism.
+Students in the program frequently work on collaborative data and software efforts with [Big Local News](https://github.com/biglocalnews), a project housed at Stanford that supports local journalism.
 
 See below to learn more about our courses and related training materials.
 
