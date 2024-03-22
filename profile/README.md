@@ -6,7 +6,7 @@ Students in the program frequently work on collaborative data and software effor
 
 See below to learn more about our courses and related training materials.
 
-To chat with us, head on over to Discussions ☝️or submit an Issue on our [community repo](https://github.com/stanfordjournalism/community/issues).
+To chat with us, head on over to [Discussions](https://github.com/orgs/stanfordjournalism/discussions) ☝️, submit an Issue on our [community repo](https://github.com/stanfordjournalism/community/issues), or send us an [email](mailto:datajournalism@stanford.edu).
 
 ## Training resources
 
