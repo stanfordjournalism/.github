@@ -13,7 +13,7 @@ To chat with us, head on over to [Discussions](https://github.com/orgs/stanfordj
 | Name  | :octocat: | Description |
 | ------|-----------| ------------- |
 | [:link: Data Journalism Notebooks](https://stanfordjournalism.github.io/data-journalism-notebooks/lab?path=README.ipynb) | [data-journalism-notebooks](https://github.com/stanfordjournalism/data-journalism-notebooks) | Training resources for Python and data analysis (no install required :metal:)|
-| Stanford Grad Journalism technical training | [padj-code](https://github.com/stanfordjournalism/padj-code) | Code examples, tutorials, assignments and other sundry bits for newsroom coding instruction used in Public Affairs Data Journalism courses. |
+| Stanford Grad Journalism technical training | [padj-code][] | Code examples, tutorials, assignments and other sundry bits for newsroom coding instruction used in Public Affairs Data Journalism courses. |
 | [:link: Front-end Faves](https://stanfordjournalism.github.io/frontend-faves/) | [frontend-faves](https://github.com/stanfordjournalism/frontend-faves) | A lovingly curated list of resources for your journey in interactive graphics and web dev for the news. |
 
 ## Courses
@@ -23,10 +23,12 @@ To chat with us, head on over to [Discussions](https://github.com/orgs/stanfordj
 | Name | Curriculum | Assignments | Teacher Guide | Description | 
 | -----|-----------|--------------|---------------|-------------|
 | Advanced Data Journalism (COMM 177A / 277A) | [advanced-data-journalism][] | [🔐ADJ assignments][] | [🔐ADJ Teacher Guide][] | Topical, hands-on course covering more advanced data journalism techniques. |
-| Public Affairs Data Journalism I & II (COMM 273D / 274D) | | | | Core data journalism courses for the Graduate Journalism Program. |
+| Public Affairs Data Journalism I & II (COMM 273D / 274D) | [padj-code][] | [🔐padj-code-solutions][] | | Core data journalism courses for the Graduate Journalism Program. |
 | [:link: Exploring Computational Journalism (CS 286 / COMM 281)](https://ecj.stanford.edu/) | | | | An interdisciplinary elective on data, design and computation for the news. |
 
 [advanced-data-journalism]: https://github.com/stanfordjournalism/advanced-data-journalism
 [🔐ADJ assignments]: https://github.com/stanfordjournalism/advanced-data-journalism-assignments
 [🔐ADJ Teacher Guide]: https://github.com/stanfordjournalism/advanced-data-journalism-teacher-guide
+[padj-code]: https://github.com/stanfordjournalism/padj-code
+[🔐padj-code-solutions]: https://github.com/stanfordjournalism/padj-code
 
